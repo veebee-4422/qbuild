@@ -1,0 +1,25 @@
+{
+  "name": "qbuild",
+  "version": "1.0.0",
+  "description": "Query builder with SQL typing for better intellisense",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "knex",
+    "query-builder",
+    "intellisense",
+    "typescript"
+  ],
+  "author": "Kaustubh R Joshi",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "mysql2": "^3.9.1",
+    "tsup": "^8.0.2"
+  }
+}
