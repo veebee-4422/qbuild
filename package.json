@@ -12,6 +12,7 @@
     "intellisense",
     "typescript"
   ],
+  "type": "module",
   "author": "Kaustubh R Joshi",
   "license": "MIT",
   "devDependencies": {
