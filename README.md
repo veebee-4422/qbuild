@@ -73,3 +73,6 @@ Adds a column from the last added table to the query with an optional alias.
 Arguments:
 - tableName: The name of the table to join.
 - alias: (Optional) Alias for the table. Defaults to the table name.
+
+## Work pending for the rest, package is still incomplete
+## ChatGPT was used in the making of this README file :)
